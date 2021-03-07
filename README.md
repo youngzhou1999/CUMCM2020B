@@ -9,5 +9,5 @@ our work: (Chinese Version)
 2. 在仅知道当前天气的情况下，利用马尔可夫性，条件概率以及混合天气状态与惩罚因子求解最佳策略。
 3. 在多名玩家的情况下，利用合作博弈思想，求解近似纳什均衡。
 
-The paper is [here](https://youngzhou1999.github.io/pdfs/B202018005030.pdf).
+The paper is [here](https://youngzhou1999.github.io/pdfs/B202018005030.pdf). 
 

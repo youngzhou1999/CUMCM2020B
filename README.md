@@ -1,7 +1,11 @@
 # CUMCM2020-B
-Our solution for CUMCM2020-B: "Across the Desert".
+Our source coode for CUMCM2020-B: "Across the Desert".
 
-our work: (Chinese Version)
+We won the first prize(and first place) in Hunan Province and the first prize of China!
+
+The problem can be seen [here](http://www.mcm.edu.cn/html_cn/node/10405905647c52abfd6377c0311632b5.html)
+
+Our work: (Chinese Version)
 
 通过建立模型为穿越沙漠的游戏玩家提供各种场景下的行动策略，具体包括以下内容：
 

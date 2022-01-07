@@ -3,7 +3,7 @@ Our source coode for CUMCM2020-B: "Across the Desert".
 
 We won the first prize(and first place) in Hunan Province and the first prize of China!
 
-The problem can be seen [here](http://www.mcm.edu.cn/html_cn/node/10405905647c52abfd6377c0311632b5.html)
+The problem can be seen [here](http://www.mcm.edu.cn/html_cn/node/10405905647c52abfd6377c0311632b5.html).
 
 Our work: (Chinese Version)
 
